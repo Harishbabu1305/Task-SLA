@@ -1,2 +1,0 @@
-﻿# Task-SLA
-16.09 task in interactive folder
